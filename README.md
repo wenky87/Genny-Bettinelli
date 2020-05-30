@@ -12,4 +12,4 @@ STUDENT JUNIOR FRONT END
 SOFT SKILL: Precision, people oriented, creativity
 HARD SKILL: html, css, problem solving
 
-IMAGE
+20171008_151058.jpg
